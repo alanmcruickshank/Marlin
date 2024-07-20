@@ -1172,7 +1172,7 @@
  *                                      X, Y, Z [, I [, J [, K...]]], E0 [, E1[, E2...]]
  */
 // E = 100 (by calc), but 107.9 at last calibration (Apr 203)
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 1600, 107.9 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 1422.2, 107.9 }
 
 /**
  * Default Max Feed Rate (linear=mm/s, rotational=°/s)
